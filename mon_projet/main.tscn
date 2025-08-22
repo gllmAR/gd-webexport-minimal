@@ -39,13 +39,15 @@ offset_right = 100.0
 offset_bottom = 50.0
 grow_horizontal = 2
 grow_vertical = 2
-text = "Z & X"
+text = "Touches 
+Z & X"
 fit_content = true
 horizontal_alignment = 1
 vertical_alignment = 1
 
 [node name="mallet" type="Control" parent="."]
 layout_mode = 1
+anchors_preset = 5
 anchor_left = 0.5
 anchor_right = 0.5
 offset_left = -100.0
@@ -84,6 +86,7 @@ grow_horizontal = 2
 
 [node name="surge" type="Control" parent="."]
 layout_mode = 1
+anchors_preset = 7
 anchor_left = 0.5
 anchor_top = 1.0
 anchor_right = 0.5
