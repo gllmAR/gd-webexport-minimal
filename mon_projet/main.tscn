@@ -25,7 +25,7 @@ grow_vertical = 2
 texture = ExtResource("5_lquwl")
 expand_mode = 1
 
-[node name="RichTextLabel-hello" type="RichTextLabel" parent="."]
+[node name="RichTextLabel-instructions" type="RichTextLabel" parent="."]
 custom_minimum_size = Vector2(200, 100)
 layout_mode = 1
 anchors_preset = -1
