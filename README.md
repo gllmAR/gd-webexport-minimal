@@ -117,7 +117,7 @@ Conseils d'import :
 
 Vous pouvez changer ces touches via Project Settings > Input Map.
 
-![input Mapping](input-map.png)
+![input Mapping](./input-map.png)
 
 ### Paramètres modifiables dans `main.gd`
 - `color_lerp_speed` : vitesse du fondu des ColorRect (plus élevé = plus rapide).
