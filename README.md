@@ -1,6 +1,6 @@
 # gd-webexport-minimal (projet pédagogique)
 
-![Capture écran gd-webexport-minimal](capture-ecran.png)
+![Capture écran gd-webexport-minimal](./capture-ecran.png)
 
 Petit projet Godot minimal pensé pour l'export Web (HTML/WASM) et pour
 apprendre les bases : écoute d'actions, lecture audio, interpolation de
